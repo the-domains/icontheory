@@ -1,0 +1,29 @@
+name: icontheory
+favicon: null
+layout_spectrum: 0.05616541835479438
+typography_spectrum: 0.5835034532938153
+title: icontheory
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.4500150899402797
+  lightness: 0.8806302670855075
+  saturation: 0.6164758813101798
+  rhythmicContrast: 0.2024463010020554
+purpose: []
