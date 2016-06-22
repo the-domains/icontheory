@@ -1,7 +1,7 @@
 name: icontheory
 favicon: null
 layout_spectrum: 0.3194
-typography_spectrum: 0.56083
+typography_spectrum: 0.33686
 title: icontheory
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ffffff'
-    - '#3f1c54'
-    - '#cbcbcb'
-    - '#f89c1d'
-    - '#cc4527'
+    - '#040001'
+    - '#212226'
+    - '#43abe0'
+    - '#353f48'
+    - '#4b7692'
   brandStrength: 0.75
   lightness: 0.8806302670855075
   saturation: 0.6164758813101798
